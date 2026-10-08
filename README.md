@@ -42,11 +42,11 @@ CoRide est une plateforme unique et sécurisée où :
 
 | Module | Ce qu'il permet | Responsable | Branche |
 |---|---|---|---|
-| **1. Gestion des utilisateurs** | Inscription, vérification de l'identité, profils, administration des comptes | Alaaeddine Guouider | `gestion-utilisateurs` |
-| **2. Gestion des véhicules** | Enregistrement des voitures et vérification de leurs papiers | Abdallah Salhi | `gestion-vehicules` |
-| **3. Gestion des trajets** | Publication des trajets et recherche par les passagers | Wasim Snoussi | `gestion-trajets` |
-| **4. Gestion des réservations** | Demande, acceptation et annulation des réservations, billet QR code | Ahmed Ridha Lazhari | `gestion-reservations` |
-| **5. Communication et avis** | Discussion entre conducteur et passager, notes et commentaires | Selim Aschi | `communication-avis` |
+| **1. Gestion des utilisateurs** | Inscription, vérification de l'identité, profils, administration des comptes || `gestion-utilisateurs` |
+| **2. Gestion des véhicules** | Enregistrement des voitures et vérification de leurs papiers || `gestion-vehicules` |
+| **3. Gestion des trajets** | Publication des trajets et recherche par les passagers || `gestion-trajets` |
+| **4. Gestion des réservations** | Demande, acceptation et annulation des réservations, billet QR code || `gestion-reservations` |
+| **5. Communication et avis** | Discussion entre conducteur et passager, notes et commentaires || `communication-avis` |
 
 ---
 
