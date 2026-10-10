@@ -1,4 +1,4 @@
-# CoRide 🚗
+# CoRide 
 
 **Application web de covoiturage** qui met en relation les personnes qui ont une voiture et celles qui font le même trajet, pour voyager ensemble en partageant les frais, de façon simple et sûre.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 💡 Le problème
+## Le problème
 
 Chaque jour, beaucoup de personnes font le même trajet pour aller au travail, étudier ou voyager entre les villes, souvent dans des transports en commun bondés, pendant que des voitures circulent avec des places vides.
 
@@ -17,7 +17,7 @@ Aujourd'hui, le covoiturage s'organise surtout dans des groupes sur les réseaux
 - des prix fixés sans repère ;
 - aucun moyen de savoir si un conducteur ou un passager est fiable.
 
-## ✅ Notre solution
+## Notre solution
 
 CoRide est une plateforme unique et sécurisée où :
 - chaque utilisateur est **vérifié** à l'inscription ;
@@ -28,7 +28,7 @@ CoRide est une plateforme unique et sécurisée où :
 
 ---
 
-## 👤 Utilisateurs
+## Utilisateurs
 
 | Utilisateur | Rôle |
 |---|---|
@@ -38,7 +38,7 @@ CoRide est une plateforme unique et sécurisée où :
 
 ---
 
-## 🧩 Modules et équipe
+## Modules et équipe
 
 | Module | Ce qu'il permet | Responsable | Branche |
 |---|---|---|---|
@@ -50,7 +50,7 @@ CoRide est une plateforme unique et sécurisée où :
 
 ---
 
-## 🤖 Intelligence artificielle
+## Intelligence artificielle
 
 | Module | Fonctionnalité |
 |---|---|
@@ -62,7 +62,7 @@ CoRide est une plateforme unique et sécurisée où :
 
 ---
 
-## 📅 Planning
+## Planning
 
 Le projet est réalisé avec la méthode **Scrum**, en 3 sprints de 2 semaines.
 
@@ -74,7 +74,7 @@ Le projet est réalisé avec la méthode **Scrum**, en 3 sprints de 2 semaines.
 
 ---
 
-## 🌍 Impact
+## Impact
 
 En remplissant les places vides des voitures, CoRide contribue à :
 - **réduire le coût** des déplacements ;
